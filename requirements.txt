@@ -1,0 +1,3 @@
+numpy>=1.25.0           # array math and random sampling
+matplotlib>=3.8.0       # plots
+notebook>=6.5.0         # notebook execution
